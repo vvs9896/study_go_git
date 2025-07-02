@@ -1,0 +1,39 @@
+# Бинарные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Тестовые файлы
+*.test
+
+# Файлы coverage
+*.out
+
+# Зависимости
+vendor/
+
+# Go workspace file
+go.work
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+temp/
+
+# Личные заметки
+notes.txt
+my_notes.md 
